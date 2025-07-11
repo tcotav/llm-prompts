@@ -7,7 +7,7 @@ Please walk me through designing a **[INSERT SYSTEM HERE - e.g., "URL shortener"
 ## Approach I'd Like:
 - **Interactive walkthrough** where you present your solution layer by layer
 - I can ask questions, suggest alternatives, or challenge decisions at each step
-- Emphasize deployment architecture, service mesh considerations, and observability patterns given my SRE background
+- Emphasize deployment architecture, cost, design tradeoffs, and observability patterns given my SRE background
 
 ## Framework to Follow:
 1. **Requirements Clarification** - Functional & non-functional requirements
